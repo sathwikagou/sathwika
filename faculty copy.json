@@ -1,0 +1,114 @@
+[
+    {
+      "Photo": "./images/Dr_ Meeravali Shaikh.webp",
+      "Name": "Dr. Meeravali Shaikh",
+      "Education": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+      "Designation": "HOD",
+      "Expereince": 13
+    },
+    {
+      "Photo": "./images/Dr_Arun Singh Chouhan.webp",
+      "Name": "Dr.Arun Singh Chouhan",
+      "Education": "B.E (CSE), M. Tech (CSE), Ph. D (CSE)",
+      "Designation": "Associate Professor",
+      "Expereince": 15
+    },
+    {
+      "Photo": "./images/Dr_M_Narayanan.webp",
+      "Name": "Dr.M.Narayanan",
+      "Education": "B.E (CSE), M.E (CSE),Ph. D (CSE)",
+      "Designation": "Professor",
+      "Expereince": 17
+    },
+    {
+      "Photo": "./images/Dr_P_Rambabu",
+      "Name": "Dr.P.Rambabu",
+      "Education": "B.Tech(Civil), M. Tech(Remote Sensing),Ph. D(Remote Sensing)",
+      "Designation": "Professor",
+      "Expereince": "20 Years (Industry), 13 Years (Teaching)"
+    },
+    {
+      "Photo": "./images/Dr_M_Ravikanth.webp",
+      "Name": "Dr.M.Ravikanth",
+      "Education": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+      "Designation": "Associate Professor",
+      "Expereince": 17
+    },
+    {
+      "Photo": "./images/Dr_ T_ Phanindra.webp",
+      "Name": "Dr. T. Phanindra",
+      "Education": "B. Tech(EEE), M. Tech (EEE), Ph.D (EEE)",
+      "Designation": "Associate Professor",
+      "Expereince": 12
+    },
+    {
+      "Photo": "./images/Dr_B_Jogeswara Rao.webp",
+      "Name": "Dr.B.Jogeswara Rao",
+      "Education": "MSc (Comp), M. Tech (CSE), Ph. D (CSE)",
+      "Designation": "Associate Professor",
+      "Expereince": 13
+    },
+    {
+      "Photo": "./images/Dr_M_Santhosh Kumar Goud.webp",
+      "Name": "Dr.M.Santhosh Kumar Goud",
+      "Education": "B.Tech (EEE), MS(Photonics), Ph. D (EEE)",
+      "Designation": "Assistant Professor",
+      "Expereince": 13
+    },
+    {
+      "Photo": "./images/Dr_ P_ Aurchana.webp",
+      "Name": "Dr. P. Aurchana",
+      "Education": "MCA, M. Tech (CSE), Ph. D (CSE)",
+      "Designation": "Assistant Professor",
+      "Expereince": "7 Years (Teaching), 4 Years (Full Ph.D)"
+    },
+    {
+      "Photo": "./images/Mr_ Naveen Kumar Navuri.webp",
+      "Name": "Mr. Naveen Kumar Navuri",
+      "Education": "B. Tech(IT), M. Tech (CSE), Ph.D Pursuing",
+      "Designation": "Assistant Professor",
+      "Expereince": 13
+    },
+    {
+      "Photo": "./images/Mr_ G_ Raju.webp",
+      "Name": "Mr. G. Raju",
+      "Education": "MCA, M. Tech (CSE), Ph. D Pursuing",
+      "Designation": "Assistant Professor",
+      "Expereince": 17
+    },
+    {
+      "Photo": "./images/Mr_ M_Krishna Kishore.webp",
+      "Name": "Mr. M.Krishna Kishore",
+      "Education": "B. Tech (IT), M. Tech (CSE), Ph. D (Pursuing)",
+      "Designation": "Assistant Professor",
+      "Expereince": 12
+    },
+    {
+      "Photo": "./images/Mrs_D_Suneetha.webp",
+      "Name": "Mrs.D.Suneetha",
+      "Education": "B. Tech (CSE), M. Tech (CSE), Ph. D Pursuing",
+      "Designation": "Assistant Professor",
+      "Expereince": 10
+    },
+    {
+      "Photo": "./images/T_Indira Priyadarshini.webp",
+      "Name": "T.Indira Priyadarshini",
+      "Education": "B. Tech (CSE), M. Tech (CSE),Ph. D (Pursuing)",
+      "Designation": "Assistant Professor",
+      "Expereince": 9.5
+    },
+    {
+      "Photo": "./images/Mrs_ P_Sabitha.webp",
+      "Name": "Mrs. P.Sabitha",
+      "Education": "B. Tech (CSE), M. Tech (CSE),Ph. D (Pursuing)",
+      "Designation": "Assistant Professor",
+      "Expereince": 6.5
+    },
+    {
+      "Photo": "./images/Mrs_ B_ Tejaswi.webp",
+      "Name": "Mrs. B. Tejaswi",
+      "Education": "B. Tech (CSE), M. Tech (CNIS),Ph. D (Pursuing)",
+      "Designation": "Assistant Professor",
+      "Expereince": 10
+    }
+  ]
